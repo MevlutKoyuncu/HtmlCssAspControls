@@ -1,0 +1,46 @@
+﻿body {
+ 
+    background-image: url('../../resimler/herhangi-bir-adam-v0-8up58kxgtr3c1.jpg');
+    /*Body içerisinde etiketi ne olursa olsun her elemanın font family özelliğini değiştirir.*/
+    color: orangered;
+}
+
+h3, h2 {
+    color: red
+}
+
+p {
+    color: dimgray;
+}
+
+a {
+    color: darkgreen;
+}
+
+.murtaza {
+    color: deeppink;
+    font-size: 15pt;
+    font-family: 'Comic Sans MS';
+    font-weight: 900;
+}
+
+#lblkullanici {
+    color: black;
+}
+.farklifont {
+    font-family: "Dancing Script", cursive;
+    font-size:25pt;
+    font-weight:700;
+}
+.button{
+    background-color:black;
+    color:white;
+    font-weight:900;
+    text-decoration:none;
+}
+.button:hover{
+    background-color:dimgrey;
+}
+.button:visited{
+     background-color:purple;
+}

@@ -67,6 +67,11 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="CSSControls\CssNedirNasılKullanılır.html" />
+    <Content Include="CSSControls\css\Cerceveler.html" />
+    <Content Include="CSSControls\css\StyleWars.css" />
+    <Content Include="CSSControls\MetinBicimlendirme.html" />
+    <Content Include="CSSControls\SeciciTurleri.html" />
     <Content Include="HTMLControls\Basliklar.html" />
     <Content Include="HTMLControls\HtmlTemelKurallar.html" />
     <Content Include="HTMLControls\LinkOlusturma.html" />
