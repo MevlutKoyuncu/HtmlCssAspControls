@@ -3,15 +3,39 @@
   "WorkspaceRootPath": "C:\\Users\\Mevlut\\source\\repos\\HtmlCssAspControls\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0459C767-6952-4A85-81C9-8A39E859D0BD}|HtmlCssAspControls\\HtmlCssAspControls.csproj|c:\\users\\mevlut\\source\\repos\\htmlcssaspcontrols\\htmlcssaspcontrols\\csscontrols\\seciciturleri.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{0459C767-6952-4A85-81C9-8A39E859D0BD}|HtmlCssAspControls\\HtmlCssAspControls.csproj|c:\\users\\mevlut\\source\\repos\\htmlcssaspcontrols\\htmlcssaspcontrols\\asp_kontrolleri\\textboxkontrolu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{0459C767-6952-4A85-81C9-8A39E859D0BD}|HtmlCssAspControls\\HtmlCssAspControls.csproj|solutionrelative:htmlcssaspcontrols\\asp_kontrolleri\\textboxkontrolu.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0459C767-6952-4A85-81C9-8A39E859D0BD}|HtmlCssAspControls\\HtmlCssAspControls.csproj|C:\\Users\\Mevlut\\source\\repos\\HtmlCssAspControls\\htmlcssaspcontrols\\asp_kontrolleri\\textboxkontrolu.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0459C767-6952-4A85-81C9-8A39E859D0BD}|HtmlCssAspControls\\HtmlCssAspControls.csproj|solutionrelative:htmlcssaspcontrols\\asp_kontrolleri\\textboxkontrolu.aspx.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0459C767-6952-4A85-81C9-8A39E859D0BD}|HtmlCssAspControls\\HtmlCssAspControls.csproj|C:\\Users\\Mevlut\\source\\repos\\HtmlCssAspControls\\htmlcssaspcontrols\\csscontrols\\boxedlayout.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0459C767-6952-4A85-81C9-8A39E859D0BD}|HtmlCssAspControls\\HtmlCssAspControls.csproj|solutionrelative:htmlcssaspcontrols\\csscontrols\\boxedlayout.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0459C767-6952-4A85-81C9-8A39E859D0BD}|HtmlCssAspControls\\HtmlCssAspControls.csproj|C:\\Users\\Mevlut\\source\\repos\\HtmlCssAspControls\\htmlcssaspcontrols\\csscontrols\\floatkullanimi.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0459C767-6952-4A85-81C9-8A39E859D0BD}|HtmlCssAspControls\\HtmlCssAspControls.csproj|solutionrelative:htmlcssaspcontrols\\csscontrols\\floatkullanimi.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0459C767-6952-4A85-81C9-8A39E859D0BD}|HtmlCssAspControls\\HtmlCssAspControls.csproj|C:\\Users\\Mevlut\\source\\repos\\HtmlCssAspControls\\htmlcssaspcontrols\\csscontrols\\marginvepadding.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0459C767-6952-4A85-81C9-8A39E859D0BD}|HtmlCssAspControls\\HtmlCssAspControls.csproj|solutionrelative:htmlcssaspcontrols\\csscontrols\\marginvepadding.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0459C767-6952-4A85-81C9-8A39E859D0BD}|HtmlCssAspControls\\HtmlCssAspControls.csproj|C:\\Users\\Mevlut\\source\\repos\\HtmlCssAspControls\\htmlcssaspcontrols\\csscontrols\\divnedir.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0459C767-6952-4A85-81C9-8A39E859D0BD}|HtmlCssAspControls\\HtmlCssAspControls.csproj|solutionrelative:htmlcssaspcontrols\\csscontrols\\divnedir.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0459C767-6952-4A85-81C9-8A39E859D0BD}|HtmlCssAspControls\\HtmlCssAspControls.csproj|C:\\Users\\Mevlut\\source\\repos\\HtmlCssAspControls\\htmlcssaspcontrols\\csscontrols\\seciciturleri.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0459C767-6952-4A85-81C9-8A39E859D0BD}|HtmlCssAspControls\\HtmlCssAspControls.csproj|solutionrelative:htmlcssaspcontrols\\csscontrols\\seciciturleri.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0459C767-6952-4A85-81C9-8A39E859D0BD}|HtmlCssAspControls\\HtmlCssAspControls.csproj|c:\\users\\mevlut\\source\\repos\\htmlcssaspcontrols\\htmlcssaspcontrols\\csscontrols\\css\\cerceveler.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "AbsoluteMoniker": "D:0:0:{0459C767-6952-4A85-81C9-8A39E859D0BD}|HtmlCssAspControls\\HtmlCssAspControls.csproj|C:\\Users\\Mevlut\\source\\repos\\HtmlCssAspControls\\htmlcssaspcontrols\\csscontrols\\css\\cerceveler.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{0459C767-6952-4A85-81C9-8A39E859D0BD}|HtmlCssAspControls\\HtmlCssAspControls.csproj|solutionrelative:htmlcssaspcontrols\\csscontrols\\css\\cerceveler.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0459C767-6952-4A85-81C9-8A39E859D0BD}|HtmlCssAspControls\\HtmlCssAspControls.csproj|c:\\users\\mevlut\\source\\repos\\htmlcssaspcontrols\\htmlcssaspcontrols\\csscontrols\\css\\stylewars.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "AbsoluteMoniker": "D:0:0:{0459C767-6952-4A85-81C9-8A39E859D0BD}|HtmlCssAspControls\\HtmlCssAspControls.csproj|C:\\Users\\Mevlut\\source\\repos\\HtmlCssAspControls\\htmlcssaspcontrols\\csscontrols\\css\\stylewars.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
       "RelativeMoniker": "D:0:0:{0459C767-6952-4A85-81C9-8A39E859D0BD}|HtmlCssAspControls\\HtmlCssAspControls.csproj|solutionrelative:htmlcssaspcontrols\\csscontrols\\css\\stylewars.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
     }
   ],
@@ -22,46 +46,116 @@
       "DocumentGroups": [
         {
           "DockedWidth": 262,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TextBoxKontrolu.aspx.cs",
+              "DocumentMoniker": "C:\\Users\\Mevlut\\source\\repos\\HtmlCssAspControls\\HtmlCssAspControls\\Asp_Kontrolleri\\TextBoxKontrolu.aspx.cs",
+              "RelativeDocumentMoniker": "HtmlCssAspControls\\Asp_Kontrolleri\\TextBoxKontrolu.aspx.cs",
+              "ToolTip": "C:\\Users\\Mevlut\\source\\repos\\HtmlCssAspControls\\HtmlCssAspControls\\Asp_Kontrolleri\\TextBoxKontrolu.aspx.cs",
+              "RelativeToolTip": "HtmlCssAspControls\\Asp_Kontrolleri\\TextBoxKontrolu.aspx.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-29T11:44:54.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TextBoxKontrolu.aspx",
+              "DocumentMoniker": "C:\\Users\\Mevlut\\source\\repos\\HtmlCssAspControls\\HtmlCssAspControls\\Asp_Kontrolleri\\TextBoxKontrolu.aspx",
+              "RelativeDocumentMoniker": "HtmlCssAspControls\\Asp_Kontrolleri\\TextBoxKontrolu.aspx",
+              "ToolTip": "C:\\Users\\Mevlut\\source\\repos\\HtmlCssAspControls\\HtmlCssAspControls\\Asp_Kontrolleri\\TextBoxKontrolu.aspx",
+              "RelativeToolTip": "HtmlCssAspControls\\Asp_Kontrolleri\\TextBoxKontrolu.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-09-29T11:40:04.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FloatKullanimi.html",
+              "DocumentMoniker": "C:\\Users\\Mevlut\\source\\repos\\HtmlCssAspControls\\HtmlCssAspControls\\CSSControls\\FloatKullanimi.html",
+              "RelativeDocumentMoniker": "HtmlCssAspControls\\CSSControls\\FloatKullanimi.html",
+              "ToolTip": "C:\\Users\\Mevlut\\source\\repos\\HtmlCssAspControls\\HtmlCssAspControls\\CSSControls\\FloatKullanimi.html",
+              "RelativeToolTip": "HtmlCssAspControls\\CSSControls\\FloatKullanimi.html",
+              "ViewState": "AgIAACMAAAAAAAAAAAAgwC4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-29T10:45:11.459Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "BoxedLayout.html",
+              "DocumentMoniker": "C:\\Users\\Mevlut\\source\\repos\\HtmlCssAspControls\\HtmlCssAspControls\\CSSControls\\BoxedLayout.html",
+              "RelativeDocumentMoniker": "HtmlCssAspControls\\CSSControls\\BoxedLayout.html",
+              "ToolTip": "C:\\Users\\Mevlut\\source\\repos\\HtmlCssAspControls\\HtmlCssAspControls\\CSSControls\\BoxedLayout.html",
+              "RelativeToolTip": "HtmlCssAspControls\\CSSControls\\BoxedLayout.html",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAAC4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-29T10:36:05.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "MarginvePadding.html",
+              "DocumentMoniker": "C:\\Users\\Mevlut\\source\\repos\\HtmlCssAspControls\\HtmlCssAspControls\\CSSControls\\MarginvePadding.html",
+              "RelativeDocumentMoniker": "HtmlCssAspControls\\CSSControls\\MarginvePadding.html",
+              "ToolTip": "C:\\Users\\Mevlut\\source\\repos\\HtmlCssAspControls\\HtmlCssAspControls\\CSSControls\\MarginvePadding.html",
+              "RelativeToolTip": "HtmlCssAspControls\\CSSControls\\MarginvePadding.html",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAAAB0AAAAfAgAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-29T10:18:52.387Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "DivNedir.html",
+              "DocumentMoniker": "C:\\Users\\Mevlut\\source\\repos\\HtmlCssAspControls\\HtmlCssAspControls\\CSSControls\\DivNedir.html",
+              "RelativeDocumentMoniker": "HtmlCssAspControls\\CSSControls\\DivNedir.html",
+              "ToolTip": "C:\\Users\\Mevlut\\source\\repos\\HtmlCssAspControls\\HtmlCssAspControls\\CSSControls\\DivNedir.html",
+              "RelativeToolTip": "HtmlCssAspControls\\CSSControls\\DivNedir.html",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2024-09-29T10:13:18.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "StyleWars.css",
               "DocumentMoniker": "C:\\Users\\Mevlut\\source\\repos\\HtmlCssAspControls\\HtmlCssAspControls\\CSSControls\\css\\StyleWars.css",
               "RelativeDocumentMoniker": "HtmlCssAspControls\\CSSControls\\css\\StyleWars.css",
               "ToolTip": "C:\\Users\\Mevlut\\source\\repos\\HtmlCssAspControls\\HtmlCssAspControls\\CSSControls\\css\\StyleWars.css",
               "RelativeToolTip": "HtmlCssAspControls\\CSSControls\\css\\StyleWars.css",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAgAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2024-09-28T13:03:46.183Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-28T13:03:46.183Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "Cerceveler.html",
               "DocumentMoniker": "C:\\Users\\Mevlut\\source\\repos\\HtmlCssAspControls\\HtmlCssAspControls\\CSSControls\\css\\Cerceveler.html",
               "RelativeDocumentMoniker": "HtmlCssAspControls\\CSSControls\\css\\Cerceveler.html",
               "ToolTip": "C:\\Users\\Mevlut\\source\\repos\\HtmlCssAspControls\\HtmlCssAspControls\\CSSControls\\css\\Cerceveler.html",
               "RelativeToolTip": "HtmlCssAspControls\\CSSControls\\css\\Cerceveler.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAHAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABYAAAA7AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-09-28T12:47:04.133Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-28T12:47:04.133Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 6,
               "Title": "SeciciTurleri.html",
               "DocumentMoniker": "C:\\Users\\Mevlut\\source\\repos\\HtmlCssAspControls\\HtmlCssAspControls\\CSSControls\\SeciciTurleri.html",
               "RelativeDocumentMoniker": "HtmlCssAspControls\\CSSControls\\SeciciTurleri.html",
               "ToolTip": "C:\\Users\\Mevlut\\source\\repos\\HtmlCssAspControls\\HtmlCssAspControls\\CSSControls\\SeciciTurleri.html",
               "RelativeToolTip": "HtmlCssAspControls\\CSSControls\\SeciciTurleri.html",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAAB4AAABmAQAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
-              "WhenOpened": "2024-09-28T10:47:42.055Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-28T10:47:42.055Z"
             }
           ]
         }

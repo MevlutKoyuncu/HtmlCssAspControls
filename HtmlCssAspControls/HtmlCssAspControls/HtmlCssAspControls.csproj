@@ -67,9 +67,14 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Content Include="Asp_Kontrolleri\TextBoxKontrolu.aspx" />
+    <Content Include="CSSControls\BoxedLayout.html" />
     <Content Include="CSSControls\CssNedirNasılKullanılır.html" />
     <Content Include="CSSControls\css\Cerceveler.html" />
     <Content Include="CSSControls\css\StyleWars.css" />
+    <Content Include="CSSControls\DivNedir.html" />
+    <Content Include="CSSControls\FloatKullanimi.html" />
+    <Content Include="CSSControls\MarginvePadding.html" />
     <Content Include="CSSControls\MetinBicimlendirme.html" />
     <Content Include="CSSControls\SeciciTurleri.html" />
     <Content Include="HTMLControls\Basliklar.html" />
@@ -80,9 +85,17 @@
     <Content Include="HTMLControls\ResimEkleme.html" />
     <Content Include="HTMLControls\Tablolar.html" />
     <Content Include="Resimler\herhangi-bir-adam-v0-8up58kxgtr3c1.jpg" />
+    <Content Include="Resimler\image.png" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Asp_Kontrolleri\TextBoxKontrolu.aspx.cs">
+      <DependentUpon>TextBoxKontrolu.aspx</DependentUpon>
+      <SubType>ASPXCodeBehind</SubType>
+    </Compile>
+    <Compile Include="Asp_Kontrolleri\TextBoxKontrolu.aspx.designer.cs">
+      <DependentUpon>TextBoxKontrolu.aspx</DependentUpon>
+    </Compile>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
